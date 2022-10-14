@@ -6,7 +6,7 @@
 
 ## About Me
 - 14\.
-- self taught programer.
+- self taught programmer.
 - currently learning JavaScript.
 - name is taken from Phineas and Ferb.
 
